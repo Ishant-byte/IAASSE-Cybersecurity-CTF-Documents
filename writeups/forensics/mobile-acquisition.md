@@ -3,7 +3,6 @@
 - **Platform:** TryHackMe
 - **Domain:** Digital forensics
 - **Difficulty:** Easy
-- **Status:** Completed (as reported in the source portfolio)
 
 ## Objective
 Understand logical, file-system, and physical mobile-device acquisition and how acquisition choice affects the evidence available to an examiner.
@@ -21,7 +20,4 @@ Understand logical, file-system, and physical mobile-device acquisition and how 
 Logical acquisition is generally less invasive and may be more accessible, while physical acquisition can expose a broader data set but is often difficult on modern encrypted devices. The correct approach depends on device access, case requirements, and legal authority.
 
 ## Lessons learned
-Preserve chain of custody, document the device state, record tool versions, and work from authorized evidence. Acquisition method should be chosen deliberately rather than assuming one technique yields every artefact.
-
-## Evidence to add
-If available, add a diagram you created comparing the three acquisition types. Do not include personal mobile data or private device identifiers.
+Preserve chain of custody, document the device state, record tool versions, and work from authorized evidence. Acquisition method should be chosen deliberately rather than assuming one technique yields every artefact. Acquisition of different devices such as iOS, Android are different and each one should be done differently. 
