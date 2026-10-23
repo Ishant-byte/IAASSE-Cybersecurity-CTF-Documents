@@ -4,7 +4,7 @@ A structured portfolio of ten TryHackMe Capture the Flag (CTF) learning exercise
 
 ## Contents
 
-- [`Final Report/`](FinalReport/): original Week 2 Word document and polished Markdown report.
+- [`Finalreport/`](Finalreport/): original Week 2 Word document and polished Markdown report.
 - [`writeups/`](writeups/): individual challenge write-ups grouped by domain.
 - [`ETHICS.md`](ETHICS.md): scope and responsible-use statement.
 
