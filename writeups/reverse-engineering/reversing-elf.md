@@ -3,7 +3,6 @@
 - **Platform:** TryHackMe
 - **Domain:** Reverse engineering
 - **Difficulty:** Easy
-- **Status:** Assumed completed for this portfolio draft — verify against your actual run before publishing
 
 ## Objective
 Analyze ELF crackme binaries using static and dynamic techniques to understand validation logic and recover the expected challenge input or flag.
@@ -23,10 +22,3 @@ The room's workflow is intended to build familiarity with combining static inspe
 
 ## Lessons learned
 Strings alone may reveal clues but do not explain all control flow. Static analysis helps form a hypothesis, while a debugger can verify how the program behaves at runtime. Record architecture, symbols, breakpoints, and the evidence supporting each conclusion.
-
-## Evidence to add before publishing
-- A sanitized disassembly/decompiler screenshot showing the relevant validation logic.
-- A debugger observation supporting your conclusion.
-- Tool versions and the actual result for the challenge.
-
-> Replace the verification note with your actual findings before submitting this as completed work. Do not invent outputs or recovered values.
