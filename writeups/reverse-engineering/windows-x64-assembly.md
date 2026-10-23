@@ -3,7 +3,6 @@
 - **Platform:** TryHackMe
 - **Domain:** Reverse engineering
 - **Difficulty:** Medium
-- **Status:** Completed (as reported in the source portfolio)
 
 ## Objective
 Build foundational knowledge of Windows x64 assembly, registers, instructions, and calling conventions to support later binary-analysis work.
@@ -23,5 +22,3 @@ Under the Windows x64 calling convention, the first four integer/pointer argumen
 ## Lessons learned
 Calling conventions affect how function arguments are passed and how a reverse engineer interprets registers at a call site. Keep platform ABI assumptions explicit when switching between Windows and Linux binaries.
 
-## Evidence to add
-A small original register/calling-convention comparison table or diagram can make this conceptual learning easier to review.
