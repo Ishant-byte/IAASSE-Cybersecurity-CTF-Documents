@@ -3,7 +3,6 @@
 - **Platform:** TryHackMe
 - **Domain:** Network security
 - **Difficulty:** Medium
-- **Status:** Completed (as reported in the source portfolio)
 
 ## Objective
 Investigate a themed Linux lab with a webmail interface and POP3 service, then follow discovered evidence to obtain access and complete the privilege-escalation path.
@@ -24,6 +23,3 @@ The lab demonstrated how a weak mailbox password and sensitive information store
 
 ## Lessons learned
 Service behavior matters: blindly increasing concurrency can make a fragile service less reliable. Record errors, change one parameter at a time, and verify each result. In production, use strong unique passwords, MFA where supported, login throttling, alerting, and avoid storing reusable credentials in mailboxes.
-
-## Evidence to add
-Add sanitized service-discovery and troubleshooting evidence. Do not commit mailbox passwords, live reverse-shell payloads with personal IP addresses, or platform flags.
