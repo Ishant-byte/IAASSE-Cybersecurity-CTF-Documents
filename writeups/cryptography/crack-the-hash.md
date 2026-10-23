@@ -3,7 +3,6 @@
 - **Platform:** TryHackMe
 - **Domain:** Cryptography / password security
 - **Difficulty:** Easy
-- **Status:** Completed (as reported in the source portfolio)
 
 ## Objective
 Identify password-hash formats and recover the supplied lab passwords using suitable lookup or offline-cracking approaches.
